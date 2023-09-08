@@ -1,0 +1,19 @@
+header{
+    background: #109BE9;
+    .container{
+        background-color: transparent;
+        height: 72px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        .link{
+            text-decoration: none;
+            color: white;
+            
+        }
+        .active{
+            color: red;
+        }
+    }
+}
